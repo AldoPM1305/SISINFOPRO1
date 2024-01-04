@@ -1,0 +1,6 @@
+@SISINFOPRO1.Server_HostAddress = http://localhost:5252
+
+GET {{SISINFOPRO1.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

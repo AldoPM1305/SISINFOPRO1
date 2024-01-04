@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISINFOPRO1.Server", "SISINFOPRO1.Server\SISINFOPRO1.Server.csproj", "{12653CF8-D3B3-4506-93AF-044B305B049E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "sisinfopro1.client", "sisinfopro1.client\sisinfopro1.client.esproj", "{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12653CF8-D3B3-4506-93AF-044B305B049E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12653CF8-D3B3-4506-93AF-044B305B049E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12653CF8-D3B3-4506-93AF-044B305B049E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12653CF8-D3B3-4506-93AF-044B305B049E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E814C9-09C8-4BAC-9CBB-3A9D140AA67D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E5FF834-F89E-47BC-8967-147982DD749A}
+	EndGlobalSection
+EndGlobal
